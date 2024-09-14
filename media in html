@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Media in html
+        </title>
+    </head>
+    <body>
+        <h1>
+            Image in html
+        </h1>
+    <img src="pexels-hudson-mcdonald-692563691-28209723.jpg"width ="500">
+
+        <h1>
+            video in HTML
+        </h1>
+        <video controls autoplay width="500">
+            <source src="Demo.mp4"
+            type="video/mp4">
+         </video>
+
+         <h1>
+            youtube in HTML </h1>
+            <iframe width="500" src ="https://www.youtube.com/embed/WzHaYFx6j2Y?si=5dVygVYXj_AJ7Gmh"></iframe>
+
+            <h1>
+                My School Name is BeaconHouse 
+                    i injoy my school life
+                    i love my school.
+            </h1>
